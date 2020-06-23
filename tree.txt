@@ -1,0 +1,39 @@
+|   .buckconfig
+|   .eslintrc.js
+|   .flowconfig
+|   .gitattributes
+|   .gitignore
+|   .prettierrc.js
+|   .watchmanconfig
+|   app.json
+|   App.json
+|   babel.config.js
+|   index.js
+|   ISSUE_TEMPLATE.md
+|   metro.config.js
+|   package.json
+|   README.md
+|   tree.txt
+|   yarn.lock
+|   
++---__tests__
+|   |   App-test.js
+|
++---android
+|   |   [...]
+|
++---ios
+|   |   [...]
+|
++---node_modules
+|   |   [...]
+|
++---src
+|   +---Home
+|   |       index.js
+|   |       styles.js
+|   +---themes
+|   |       dark.js
+|   |       index.js
+|   |       light.js
+|
