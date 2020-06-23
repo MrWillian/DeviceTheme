@@ -37,3 +37,4 @@ And now, just run it in your Emulator.
 -   Make a push to your branch:  `git push origin my-feature`.
 
 After merging your receipt request to done, you can delete a branch from yours.
+You can read [ISSUE TEMPLATE](https://github.com/MrWillian/DeviceTheme/blob/master/ISSUE_TEMPLATE.md) to see Issues template.
